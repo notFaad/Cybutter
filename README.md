@@ -7,13 +7,13 @@ Expect The application to be buggy
 **If you  experienced any issue please open a ticket to help the development of the application.**
 
 ## Screenshots:
-### Downloader:
+<h4> Downloader: </h4>
 <img alt="" height="500" width = "600" src="images/downloader.png"/>
-### Downloading Files:
+<h4> Downloading Files: </h4>
 <img alt="" height="500" width = "600" src="images/downloading.png"/>
-### Media Player:
+<h4> Media Player: </h4>
 <img alt="" height="500" width = "600" src="images/media.png"/>
-### Photo Viewer:
+<h4> Photo Viewer: </h4>
 <img alt="" height="500" width = "600" src="images/photo_viewer.png"/>
 
 
