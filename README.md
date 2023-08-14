@@ -8,12 +8,22 @@ Expect The application to be buggy
 
 ## Screenshots:
 <h4> Downloader: </h4>
-<img alt="" height="500" width = "600" src="images/downloader.png"/>
+<img alt="" height="300" width = "400" src="images/downloader.png"/>
 <h4> Downloading Files: </h4>
-<img alt="" height="500" width = "600" src="images/downloading.png"/>
+<img alt="" height="300" width = "400" src="images/downloading.png"/>
 <h4> Media Player: </h4>
-<img alt="" height="500" width = "600" src="images/media.png"/>
+<img alt="" height="300" width = "400" src="images/media.png"/>
 <h4> Photo Viewer: </h4>
-<img alt="" height="500" width = "600" src="images/photo_viewer.png"/>
+<img alt="" height="300" width = "400" src="images/photo_viewer.png"/>
+
+## Roadmap:
+
+- [x] Single Download
+- [x] Multi links download
+- [ ] Multi-Threaded downloader
+- [ ] Coomer.Party Downloader and player
+- [ ] Support multiple hosts.
+- [ ] Download retry using different servers subsystem.
+- [ ] Android application. 
 
 
